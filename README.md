@@ -4,4 +4,4 @@
 
 
 
-Команда ! (Data doctors)
+Команда 1 (Data doctors)
